@@ -1,3 +1,5 @@
+![Github Action Badge](https://github.com/Fleaurent/Python_Github_Actions/actions/workflows/makefile.yml/badge.svg)  
+
 # Python Github Actions
 
 1. create and activate venv  
