@@ -1,3 +1,5 @@
+.PHONY: hello install format lint test all
+
 hello:
 	echo hello
 	echo hello > hello.txt
